@@ -1,0 +1,1 @@
+Place the raw UCI WDBC `wdbc.data` file here while developing. Create `test_data.csv` from the held-out split in your own training run; it must contain the 30 named features and the `diagnosis` target, but not the ID. Do not upload training data to the free Streamlit app.
